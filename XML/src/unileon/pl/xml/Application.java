@@ -73,7 +73,7 @@ public class Application extends JFrame {
 	public Application() {
 		setResizable(false);
 		setIconImage(Toolkit.getDefaultToolkit().getImage(Application.class.getResource("/unileon/pl/images/iconXML.png")));
-		setTitle("ValidarXML");
+		setTitle("Validar XML");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 492, 380);
 		
